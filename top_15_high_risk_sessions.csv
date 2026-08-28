@@ -1,0 +1,16 @@
+session_id,timestamp,user,probability,interpretation
+CASE-KYC-01,2026-09-11T18:33:00Z,mhaingura,0.9999999999999998,Matches confirmed compromised-account timeline (see Part C)
+CASE-EXFIL-01,2026-09-12T00:35:00Z,mhaingura,0.9999999999999998,Matches confirmed compromised-account timeline (see Part C)
+CASE-EXFIL-02,2026-09-12T00:43:00Z,mhaingura,0.9999999999999998,Matches confirmed compromised-account timeline (see Part C)
+CASE-VPN-01,2026-09-11T18:18:00Z,mhaingura,0.9999999999861483,Matches confirmed compromised-account timeline (see Part C)
+S00072,2026-09-13T17:40:00Z,ntinda,0.999526297497053,High predicted risk: privilege mismatch detected
+S00427,2026-09-12T23:21:00Z,sihuhua,0.998841968097852,High predicted risk based on model score
+CASE-PHISH-01,2026-09-11T17:02:00Z,mhaingura,0.9982742385332392,Matches confirmed compromised-account timeline (see Part C)
+S00300,2026-09-12T13:16:00Z,ntinda,0.9978161316287181,High predicted risk based on model score
+S00049,2026-09-12T00:51:00Z,murorua,0.9852069872128957,High predicted risk: privilege mismatch detected
+S00118,2026-09-11T12:09:00Z,nambala,0.9839769808260058,High predicted risk based on model score
+S00414,2026-09-12T13:42:00Z,nambala,0.9783767598842317,High predicted risk based on model score
+S00232,2026-09-13T21:58:00Z,nambala,0.9783321114988787,High predicted risk: privilege mismatch detected
+S00093,2026-09-10T12:40:00Z,shilongo,0.9608083489751849,High predicted risk: privilege mismatch detected
+S00290,2026-09-08T05:54:00Z,nnakale,0.9606389304133583,High predicted risk based on model score
+S00411,2026-09-11T01:29:00Z,shapaka,0.9512152924218703,High predicted risk based on model score
