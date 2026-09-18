@@ -1,0 +1,6 @@
+scenario_id,scenario_name,prob_reach_ot,prob_reach_safety,mean_critical_infected,mean_total_infected,median_time_to_ot,p90_total_infected
+S0,Current controls,0.085,0.004,2.357,2.357,3,4
+S1,Patch vendor path,0.007,0,1.291,1.291,3,2
+S2,Strengthen OT segmentation,0.013,0,1.983,1.983,3,4
+S3,Rapid EDR isolation,0.016,0,1.831,1.831,3,3
+S4,Combined controls,0.001,0,1.297,1.297,3,2
